@@ -23,3 +23,6 @@ In conclusion, the significance of alarm-sms-notification systems has grown with
 
 As a result, an alarm-sms-notification system is the one that users and developers prefer to utilize in order to receive emergency alerts. Strong programming abilities are required for the development of an alarm-text-notification system. Programming from scratch also provides a larger investment of time and effort. Because of this, the AlarmManager API was developed for developers in order to improve the overall user experience. This application programming interface (API) provides a number of interesting constants and methods, such as ACTION NEXT ALARM CLOCK CHANGED, ACTION SCHEDULE EXACT ALARM PERMISSION STATE CHANGED, ELAPSED REALTIME WAKEUP, and INTERVAL DAY, for the purpose of allowing developers to customize a feature according to their individual preferences.
 
+Reference:
+https://developer.android.com/reference/android/app/AlarmManager
+
