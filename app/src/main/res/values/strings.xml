@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+    <string name="time_span">Enter Time Span</string>
+    <string name="sec">Sec</string>
+    <string name="set_message">Do you want to set time?</string>
+    <string name="set_schedule_alarm">Set Schedule Alarm</string>
+    <string name="schedule_message">Alarm will start at selected time</string>
+    <string name="stop_alarm">Stop Alarm</string>
+
+</resources>
