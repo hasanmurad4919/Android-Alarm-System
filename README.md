@@ -1,3 +1,22 @@
+# Android Alarm System
+Android Alarm System was created with innovative features that allow you to set and receive personalized alarms.
+This app also provides the user with a customized alarm system.A Temperature update has been added to alert the user.
+This application was created using the AlarmManager API.
+
+
+This app includes the following features:
+    ● the ability to start an alarm after a specific number of seconds.
+    ● the ability to set an alarm for a specific date and time.
+    ● When alarm starts, a ringtone and vibration will be started.
+    ● When the alarm is set and starts, a long Toast message is displayed.
+    ● The user can stop the alarm by pressing a button
+    ● The temperature is displayed every 10 minutes. 
+
+
+ 
+
+
+
 # Importance of AlarmManager API on Wear OS
 AlarmManager API is significant if you wish to launch a particular service at a specific time. It offers apps that can operate in the background even when the user is not using them. This API is used in a work that will be executed in the future. The AlarmManager API can be helpful if you want to create a program that generates notifications after a certain amount of time.
 
